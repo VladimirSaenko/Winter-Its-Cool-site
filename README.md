@@ -6,7 +6,7 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Winter%20Its%20Cool/i
 
 }
 
-Все времена года 
+Все времена года {
 
 https://github.com/VladimirSaenko/All-Seasons-Year-site.git
 
@@ -14,6 +14,7 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/All%20Seasons%20Year%
 
 https://vladimirsaenko.github.io/All-Seasons-Year-site/
 
+}
 
 
 #"Winter is Coming"
