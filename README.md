@@ -18,5 +18,3 @@
 ### https://vladimirsaenko.github.io/All-Seasons-Year-site/
 
 ### }
-
-### #"Winter is Coming"
